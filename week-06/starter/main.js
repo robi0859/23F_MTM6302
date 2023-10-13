@@ -66,19 +66,3 @@ const courseNav = ``
     // - create a new link element: document.createElement('a')
     // - set the text content
     // - append the newly created element to the DOM
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
